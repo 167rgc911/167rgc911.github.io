@@ -1,3 +1,9 @@
-# 167rgc911.github.io
+# This is 167rgc911.github.io
 
-[resume](https://167rgc911.github.io/docs/resume.pdf)
+## About
+
+Rommel 'Mela'
+
+## Resume
+
+[pdf](https://167rgc911.github.io/docs/resume.pdf)
