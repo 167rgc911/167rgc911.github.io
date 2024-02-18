@@ -1,7 +1,3 @@
-layout: page
-title: Rommel on github
-permalink: /
-
 # This is 167rgc911.github.io
 
 ## About
