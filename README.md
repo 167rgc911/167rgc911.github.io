@@ -5,7 +5,7 @@
 Rommel 'Mela'
 
 Embedded systems engineer and not really a web developer so
-I'm leveraging GitHub Pages.
+I'm leveraging GitHub (Actions/Pages/Deployment).
 
 ## Resume
 
