@@ -9,6 +9,6 @@ leveraging GitHub (Actions/Pages/Deployment) for simple CI/CD.
 
 ## Resume
 
-[pdf](https://167rgc911.github.io/docs/resume.pdf)
+[pdf](https://167rgc911.github.io/docs/CustodioRommel_Resume.pdf)
 
 _my resume ... has clickable links_
