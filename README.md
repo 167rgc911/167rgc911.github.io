@@ -5,8 +5,11 @@
 Rommel 'Mela'
 
 _Software developer_
+
 _Embedded software developer_
+
 _Firmware developer_
+
 
 leveraging GitHub (Actions/Pages/Deployment) for simple CI/CD.
 
