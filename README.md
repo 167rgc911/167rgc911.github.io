@@ -4,7 +4,10 @@
 
 Rommel 'Mela'
 
-Software developer and not really a web developer so I'm
+_Software developer_
+_Embedded software developer_
+_Firmware developer_
+
 leveraging GitHub (Actions/Pages/Deployment) for simple CI/CD.
 
 ## Resume
